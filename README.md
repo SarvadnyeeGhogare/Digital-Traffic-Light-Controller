@@ -7,5 +7,7 @@ This project involves the implementation of a traffic light controller for a two
 Specifications:
 
 North-South Traffic Priority: The North-South signal remains green for a minimum of 25 seconds and extends its duration until a vehicle is detected on the East-West street.
+
 East-West Traffic Management: The East-West signal can stay green for a maximum of 25 seconds, ensuring a timely switch back to North-South traffic, regardless of vehicle presence.
+
 Safe Signal Transition: A 4-second yellow light interval is enforced in both directions to facilitate smooth and safe transitions between red and green signals.
